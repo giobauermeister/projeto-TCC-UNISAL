@@ -27,8 +27,10 @@ Recursos de Software
  - API Javascript para Google Maps
  - Hospedagem de servidor na nuvem com Amazon EC2
  - Microsoft Azure IoT Hub, Stream Analytics e Power BI
+ - Protocolo MQTT
 
-No repositório encontra-se o código fonte das 3 residências do sistema 
+No repositório encontra-se o código fonte das 3 residências do sistema
+
 Para informações mais detalhadas verifiue o PDF do trabalho.
 
 Copyright© Giovanni Bauermeister Santana 2016
