@@ -3,7 +3,7 @@ Trabalho de Conclusão de Curso - UNISAL Campinas
 
 Engenharia de Automação e Controle
 
-<a href="https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQISTVRUkQ3SzdqV2s"><img src="https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQISTVRUkQ3SzdqV2s" height="450" width="600"/></a>
+<a href="https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQISTVRUkQ3SzdqV2s"><img src="https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQISTVRUkQ3SzdqV2s" height="450" width="1000"/></a>
 
 Este trabalho consiste em um projeto de sistema de segurança residencial onde usou-se os princípios de 
  - IoT (Internet das Coisas) 
