@@ -3,6 +3,8 @@ Trabalho de Conclusão de Curso - UNISAL Campinas
 
 Engenharia de Automação e Controle
 
+<a href="https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQISTVRUkQ3SzdqV2s"><img src="https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQISTVRUkQ3SzdqV2s" height="450" width="600"/></a>
+
 Este trabalho consiste em um projeto de sistema de segurança residencial onde usou-se os princípios de 
  - IoT (Internet das Coisas) 
  - Visão computacional com OpenCV
@@ -25,5 +27,8 @@ Recursos de Software
  - API Javascript para Google Maps
  - Hospedagem de servidor na nuvem com Amazon EC2
  - Microsoft Azure IoT Hub, Stream Analytics e Power BI
- 
-<a href="https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQISTVRUkQ3SzdqV2s>><img src="https://drive.google.com/uc?export=view&id=0B7uO0jJfbFQISTVRUkQ3SzdqV2s" height="450" width="600"/></a>
+
+No repositório encontra-se o código fonte das 3 residências do sistema 
+Para informações mais detalhadas verifiue o PDF do trabalho.
+
+Copyright© Giovanni Bauermeister Santana 2016
